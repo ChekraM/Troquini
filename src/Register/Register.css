@@ -1,0 +1,146 @@
+.create {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(3, 3, 37, 0.5);
+  width: 50%;
+  height: 800px;
+  margin-top: 103px;
+  margin-left: 353px;
+  border-radius: 20px;
+}
+.email {
+  display: flex;
+}
+.prenom {
+  display: flex;
+}
+.nom {
+  display: flex;
+}
+.password {
+  display: flex;
+}
+.inputname {
+  width: 259px;
+  height: 26px;
+  border: 3px solid rgba(0, 0, 255, 0.5);
+  margin-left: 251px;
+  margin-top: 8px;
+}
+.inputsurname {
+  width: 259px;
+  height: 26px;
+  border: 3px solid rgba(0, 0, 255, 0.5);
+  margin-left: 220px;
+  margin-top: 20px;
+}
+.surnametitle {
+  color: rgba(0, 0, 255, 0.5);
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: 59px;
+  margin-top: 9px;
+}
+.mailadress {
+  color: rgba(0, 0, 255, 0.5);
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: 59px;
+  margin-top: 26px;
+}
+.nametitle {
+  color: rgba(0, 0, 255, 0.5);
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: 59px;
+  margin-top: 9px;
+}
+.confirmpsd {
+  color: rgba(0, 0, 255, 0.5);
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: 54px;
+  margin-top: 39px;
+}
+.psswd {
+  color: rgba(0, 0, 255, 0.5);
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: 58px;
+  margin-top: 41px;
+}
+.inputpssd {
+  width: 259px;
+  height: 26px;
+  border: 3px solid rgba(0, 0, 255, 0.5);
+  margin-left: 175px;
+  margin-top: 37px;
+}
+.inputconfirmpssd {
+  width: 259px;
+  height: 26px;
+  border: 3px solid rgba(0, 0, 255, 0.5);
+  margin-left: 31px;
+  margin-top: 37px;
+}
+.inputmail {
+  width: 259px;
+  height: 26px;
+  border: 3px solid rgba(0, 0, 255, 0.5);
+  margin-left: 157px;
+  margin-top: 27px;
+}
+.registerpage {
+  color: rgba(0, 0, 255, 0.5);
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: 205px;
+  margin-top: 25px;
+}
+.creer {
+  width: 100px;
+  height: 60px;
+  border: 2px solid blue;
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-left: 455px;
+  background-color: rgba(0, 0, 255, 0.5);
+  color: white;
+}
+.adressepostal {
+  display: flex;
+}
+.ville {
+  color: rgba(0, 0, 255, 0.5);
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: 58px;
+  margin-top: 41px;
+}
+.inputville {
+  width: 259px;
+  height: 26px;
+  border: 3px solid rgba(0, 0, 255, 0.5);
+  margin-left: 254px;
+  margin-top: 27px;
+}
+.inputcodepostal {
+  width: 259px;
+  height: 26px;
+  border: 3px solid rgba(0, 0, 255, 0.5);
+  margin-left: 185px;
+  margin-top: 27px;
+}
+.error {
+  align-items: center;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 334px;
+}
+
+.errortrue {
+  align-items: center;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 334px;
+}

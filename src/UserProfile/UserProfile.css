@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans+Caption");
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah");
+
+.user-profile-container {
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 14px;
+  margin-top: 7rem;
+}
+.row {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+.user-profile-header {
+  margin: 5px !important;
+  padding: 10px !important;
+  justify-content: left;
+}
+
+.user-profile-column-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 5px 0px;
+  padding-top: 24px;
+  box-shadow: 0 10px 35px rgba(50, 50, 93, 0.1), 0 2px 15px rgba(0, 0, 0, 0.07);
+}
+.user-profile-column-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 5px 0px;
+  box-shadow: 0 10px 35px rgba(50, 50, 93, 0.1), 0 2px 15px rgba(0, 0, 0, 0.07);
+}
+
+.user-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  height: 50px;
+  border: 1px solid rgb(64, 193, 233);
+  border-radius: 10px;
+  color: white;
+  font-family: "Gloria Hallelujah", cursive, serif;
+  background: rgb(64, 193, 233);
+  margin: 5px;
+}
+
+.user-detail-row {
+  margin: 29px 0px;
+}
+.user-name,
+.user-code-postal {
+  margin: 5px 0px;
+}
+.user-detail-left {
+  max-height: 348px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+.user-detail-label {
+  color: brown;
+  font-family: "Dancing Script", cursive;
+  font-weight: bold;
+  margin: 22px 0px;
+  font-size: 30px;
+}
+.user-description {
+  color: grey;
+  font-family: "PT Sans Caption", sans-serif;
+}
+.user-troc-nbre {
+  font-size: 40px;
+  align-self: center;
+  color: brown;
+  text-align: left;
+}

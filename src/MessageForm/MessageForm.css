@@ -1,0 +1,40 @@
+.troc-button-negociate {
+  margin-bottom: 5px;
+  align-self: center;
+}
+.negociate-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  border: 1px solid rgb(64, 193, 233);
+  border-radius: 10px;
+  color: white;
+  font-family: "Gloria Hallelujah", cursive, serif;
+  background: rgb(64, 193, 233);
+}
+
+.negociate-btn:hover {
+  color: grey;
+  cursor: pointer;
+}
+
+.green-color {
+  background: rgb(130, 214, 3);
+  border: 1px solid rgb(130, 214, 3);
+  width: 100px;
+}
+.red-color {
+  background: rgb(221, 46, 46);
+  border: 1px solid rgb(221, 46, 46);
+  width: 100px;
+}
+.negociate-icon {
+  width: 20%;
+  margin-right: 15px;
+}
+.modal-header {
+  font-family: "Gloria Hallelujah", cursive, serif;
+  color: rgb(64, 193, 233);
+  font-weight: bold;
+}

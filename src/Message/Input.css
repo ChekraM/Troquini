@@ -1,0 +1,11 @@
+.messageBox {
+  border: 1px solid #bebebe;
+  padding: 10px;
+  height: 200px;
+  margin: 80px 0 10px 0;
+  overflow-x: auto;
+}
+
+.message-container {
+  margin-top: 100px;
+}

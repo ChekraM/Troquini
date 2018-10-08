@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans+Caption");
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah");
+
+.message-container {
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 14px;
+  margin-top: 7rem;
+}
+.row {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+.message-header {
+  margin: 5px !important;
+  padding: 10px !important;
+  justify-content: left;
+}
+
+.message-body {
+  padding-top: 22px;
+  box-shadow: 0 10px 35px rgba(50, 50, 93, 0.1), 0 2px 15px rgba(0, 0, 0, 0.07);
+}
+.basic-textarea textarea {
+  height: auto;
+}
+.pull-right {
+  max-width: 93px;
+}
+.card.chat-room .friend-list li {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.card.chat-room .friend-list li:last-of-type {
+  border-bottom: none;
+}
+
+.card.chat-room img.rounded-circle {
+  border-radius: 50%;
+}
+
+.card.chat-room img.avatar {
+  height: 3rem;
+  width: 3rem;
+}
+
+.card.chat-room .text-small {
+  font-size: 0.95rem;
+}
+
+.card.chat-room .text-smaller {
+  font-size: 0.75rem;
+}
+
+.card.chat-room .friend-list li {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.card.chat-room .friend-list li:last-of-type {
+  border-bottom: none;
+}
+
+.card.chat-room img.rounded-circle {
+  border-radius: 50%;
+}
+
+.card.chat-room img.avatar {
+  height: 3rem !important;
+  width: 3rem !important;
+}
+
+.card.chat-room .text-small {
+  font-size: 0.95rem;
+}
+
+.card.chat-room .text-smaller {
+  font-size: 0.75rem;
+}
+
+.card.chat-room .members-panel-1,
+.card.chat-room .chat-1 {
+  position: relative;
+  overflow-y: scroll;
+}
+
+.card.chat-room .members-panel-1 {
+  height: 570px;
+}
+
+.card.chat-room .chat-1 {
+  height: 495px;
+}
+
+.card.chat-room .friend-list li {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.card.chat-room .friend-list li:last-of-type {
+  border-bottom: none;
+}
+
+.card.chat-room img.rounded-circle {
+  border-radius: 50%;
+}
+
+.card.chat-room img.avatar {
+  height: 3rem;
+  width: 3rem;
+}
+
+.card.chat-room .text-small {
+  font-size: 0.95rem;
+}
+
+.card.chat-room .text-smaller {
+  font-size: 0.75rem;
+}

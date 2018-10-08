@@ -1,0 +1,35 @@
+.my-5 {
+  margin-bottom: 1rem !important;
+}
+
+.container {
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 14px;
+  margin-top: 7rem;
+}
+
+.white-text {
+  font-size: 36px;
+  margin-bottom: 40px;
+  color: white !important;
+}
+
+.pb-3 {
+  margin: 5px !important;
+  text-align: left;
+}
+
+.fa-smile-o,
+.fa-pie-chart,
+.fa-eye {
+  color: rgb(241, 194, 40);
+}
+
+.pie-chart {
+  font-size: 18px;
+}
+
+.num-icon {
+  width: 25px;
+  padding: 4px;
+}

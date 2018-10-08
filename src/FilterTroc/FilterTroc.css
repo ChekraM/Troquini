@@ -1,0 +1,10 @@
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 10px;
+  padding: 10px;
+}
+.category-selection {
+  margin: 5px !important;
+}

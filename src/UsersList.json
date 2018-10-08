@@ -1,0 +1,47 @@
+[
+  {
+    "userDescription": "J'aime troquer, apprendre de nouvelles choses ,échanger en fonction des envies de chacun( e), découvrir, partager.",
+    "userFirstName": "Flen",
+    "userLastName": "Ben Foulen",
+    "pseudo": "mood@",
+    "email": "mood@gmail.com",
+    "passWord": "1234Abcd*",
+    "userAdresse": "2 rue d'Italie",
+    "userCity": "Tunis",
+    "postalCode": 1057,
+    "userCIN": "06368475",
+    "userRating": 5,
+    "userTrocNbre": 3,
+    "userPhoto": "profile.png"
+  },
+  {
+    "userDescription": "J'aime troquer, apprendre de nouvelles choses ,échanger en fonction des envies de chacun( e), découvrir, partager.",
+    "userFirstName": "Flena",
+    "userLastName": "Bent Foulen",
+    "pseudo": "tears@",
+    "email": "tears@gmail.com",
+    "passWord": "123456Abcd*",
+    "userAdresse": "2 rue d'Italie",
+    "userCity": "Ariana",
+    "postalCode": 2037,
+    "userCIN": "06368575",
+    "userRating": 0,
+    "userTrocNbre": 1,
+    "userPhoto": "profile.png"
+  },
+  {
+    "userDescription": "J'aime troquer, apprendre de nouvelles choses ,échanger en fonction des envies de chacun( e), découvrir, partager.",
+    "userFirstName": "Flen",
+    "userLastName": "Ben Foulena",
+    "pseudo": "joy@",
+    "email": "joy@gmail.com",
+    "passWord": "1234567Abcd*",
+    "userAdresse": "2 rue d'Italie",
+    "userCity": "Nabeul",
+    "postalCode": 8060,
+    "userCIN": "06369575",
+    "userRating": 2,
+    "userTrocNbre": 2,
+    "userPhoto": "profile.png"
+  }
+]

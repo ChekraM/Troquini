@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans+Caption");
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah");
+
+/*Header fiche produit*/
+.troc-detail-container {
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 14px;
+  margin-top: 7rem;
+}
+.row {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+.troc-detail-header {
+  margin: 5px !important;
+  padding: 10px !important;
+  justify-content: left;
+}
+/*Colonne gauche pour la fiche produit*/
+.troc-detail-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 10px 35px rgba(50, 50, 93, 0.1), 0 2px 15px rgba(0, 0, 0, 0.07);
+}
+.troc-detail-up {
+  margin-top: 10px;
+}
+.troc-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.font-date {
+  color: red;
+  font-size: 14px;
+}
+
+.font-type {
+  color: rgb(43, 84, 172);
+  font-family: "Dancing Script", cursive;
+}
+.font-category {
+  color: rgb(44, 44, 44);
+  margin: 5px 0px;
+}
+.font-description {
+  color: rgb(150, 149, 149);
+  font-size: 14px;
+  margin: 5px 0px;
+}
+
+.font-title,
+.font-vues {
+  color: #ebbf6e;
+  font-family: "Gloria Hallelujah", cursive, serif;
+  text-transform: uppercase;
+  margin: 5px 0px;
+}
+.negociate-text {
+  margin-bottom: 0px;
+}
+.troc-detail-down {
+  align-self: flex-end;
+}
+
+.evaluation-icon {
+  width: 10%;
+  height: 10%;
+}
+
+.social-media {
+  border: 1px solid rgb(131, 130, 130);
+  text-align: center;
+  background: rgb(218, 215, 215);
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.social-media-text {
+  margin-top: 15px;
+  font-family: "Gloria Hallelujah", cursive, serif;
+}
+
+/*Colonne Droite pour le profil*/
+.profile-column {
+  text-align: center;
+  align-items: center;
+}
+.user-photo {
+  margin-top: 10px;
+  width: 150px;
+}
+.user-name {
+  font-family: "Dancing Script", cursive;
+  margin-top: 10px;
+  color: rgb(8, 83, 105);
+  font-size: 40px;
+}
+.user-city,
+.postal-code {
+  font-family: "PT Sans Caption", sans-serif;
+  color: grey;
+  margin: 0px;
+}
+
+.evaluation,
+.user-access {
+  margin: 2px;
+}
+.evaluation {
+  justify-content: center;
+}
+.counter-troc {
+  margin: 2px;
+  display: flex;
+  width: 250px;
+}
+.troc-icon {
+  width: 80px;
+  height: 80px;
+}
+.troc-comma {
+  width: 21px;
+  color: brown;
+  align-self: center;
+  text-align: left;
+  font-size: 40px;
+}
+.troc-nbre {
+  font-size: 40px;
+  align-self: center;
+  color: brown;
+  text-align: left;
+  width: 56px;
+}
+
+.evaluation-icon {
+  width: 10%;
+  padding: 5px 0px;
+}
+.user-profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  height: 50px;
+  border: 1px solid rgb(64, 193, 233);
+  border-radius: 10px;
+  color: white;
+  font-family: "Gloria Hallelujah", cursive, serif;
+  background: rgb(64, 193, 233);
+  margin-bottom: 5px;
+}
+
+.user-profile:hover {
+  color: grey;
+}
+.profile-access {
+  margin-bottom: 5px !important;
+  align-self: center;
+}
+.porfil-link-text {
+  padding-top: 4px;
+}

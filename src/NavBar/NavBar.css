@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans+Caption");
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah");
+
+.navbar {
+  background-color: #1bb2d8f2;
+  z-index: 1;
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 0rem 1rem !important;
+}
+
+.fixed-top {
+  position: fixed !important;
+}
+
+.right {
+  max-width: 320px;
+}
+.item-1 {
+  margin-left: 24px !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar {
+    background-color: #1bb2d8f2;
+  }
+}
+
+.navbar-brand {
+  font-family: "Dancing Script", cursive !important;
+  font-size: 40px !important;
+}
+
+*:focus {
+  outline: none;
+}
+
+
+.menu-utilitaires {
+  display: flex;
+  justify-content: space-between;
+  vertical-align: middle;
+  width: 280px;
+  padding: 5px;
+}
+.log-button {
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 12px;
+  border-radius: 6px;
+  background: white;
+  width: 120px;
+  height: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.log-in {
+  color: rgba(0, 146, 181, 0.95);
+}
+.sign-button {
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 12px;
+  border-radius: 6px;
+  background: white;
+  width: 150px;
+  height: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+  color: white;
+}
+.register {
+  color: rgba(0, 146, 181, 0.95);
+}
+
+*:focus {
+  outline: none !important;
+}
+
+ul,
+li {
+  list-style: none;
+}
+.top-nav-collapse {
+  background-color: #1bb2d8f2;
+}
+.menu {
+  text-transform: uppercase;
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 13px;
+  transition: transform 1s !important;
+  transition-timing-function: ease-in-out !important;
+  padding: 0px !important;
+  margin: 0px !important;
+  color: white;
+  font-weight: bold;
+}
+
+.menu:hover {
+  transform: scale(1.2) !important;
+  color: #ebbf6e !important;
+}
+
+.log-in .register:hover {
+  background: white;
+  color: rgba(255, 67, 67, 0.95);
+}
+
+.mr-auto,
+.mx-auto {
+  align-items: space-around !important;
+}

@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans+Caption");
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah");
+
+/*Header fiche produit*/
+#edit-profile-container {
+  font-family: "PT Sans Caption", sans-serif;
+  font-size: 14px;
+  margin-top: 7rem;
+}
+
+.edit-profile-header {
+  margin: 5px !important;
+  padding: 10px !important;
+}
+.edit-profile-form {
+
+  margin: 5px;
+  padding-top: 10px;
+  box-shadow: 0 10px 35px rgba(50, 50, 93, 0.1), 0 2px 15px rgba(0, 0, 0, 0.07);
+  border-radius: 5px;
+}

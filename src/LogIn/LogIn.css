@@ -1,0 +1,29 @@
+.login-container{
+    margin-top : 220px;
+    margin-bottom: 200px;
+    margin-left: 600px;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.logo a{
+    color: white
+}
+.right a{
+    color : rgba(0, 146, 181, 0.95)
+}
+.right button{
+    color : rgba(0, 146, 181, 0.95)
+}
+.email{
+
+    margin-right: 50px;
+}
+.password{
+
+    margin-right: 50px;
+
+}
+.sign{
+
+    margin-top: 20px;
+}

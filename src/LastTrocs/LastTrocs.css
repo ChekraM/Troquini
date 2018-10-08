@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah");
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+
+.back-grey {
+  background: rgba(245, 244, 232, 0.897);
+  padding: 10px 118px 30px 125px !important;
+}
+
+.title {
+  font-family: "Dancing Script", cursive !important;
+  font-size: 75px !important;
+}
